@@ -2,4 +2,4 @@
 
 ![Clippy](src/img/paperclip.gif)
 
-## Collection of notes for WaPen
+Collection of notes I take on various WaPen methodologies, techniques and tools.
