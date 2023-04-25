@@ -23,6 +23,10 @@ The second method involves submitting a series of UNION SELECT payloads specifyi
 etc.
 ```
 
+## Union Select Data Example
+
+```Pets' union select username, password from users--```
+
 ## Determine how many columns are being returned in the original sql payload
 Not part of the curiculum but it's an extra tool in my belt I'll eventually need
 >Sam' ORDER BY 1#
