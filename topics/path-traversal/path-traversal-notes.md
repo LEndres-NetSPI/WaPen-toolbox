@@ -1,9 +1,7 @@
 # Path Traversal
 
-Goal = ``/etc/passwd``
-
-Step 1: try ``/etc/passwd``!
-
+Goal = ``/etc/passwd``  
+Step 1: try ``/etc/passwd``!  
 Step 2: try basic traversal ``../../etc/passwd``
 
 
