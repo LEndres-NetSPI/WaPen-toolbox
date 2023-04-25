@@ -9,9 +9,7 @@ Step 1... try /etc/passwd!
 
 ## Directory traversal sequences stripped?
 
->....//
->becomes
->../
+``....//`` becomes ``../``
 
 ## URL Encoding
 
@@ -19,4 +17,4 @@ Step 1... try /etc/passwd!
 
 **Double URL Encoding**
 
-%2e%2e%2f becomes %252e%252e%252f
+``%2e%2e%2f`` becomes ``%252e%252e%252f``
