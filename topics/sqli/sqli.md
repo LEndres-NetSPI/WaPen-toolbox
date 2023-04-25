@@ -29,8 +29,8 @@ etc.
 
 ## Random Notes
 
-I'm not sure how it fares in the real world
 Union selects will **only work** if the column data types match!
+
 This means that if you have a table that contains (int, string) and you want to dump the user credentials table (string:username, string:password), you'll have to concat user+pass and pass in null as the 1st parameter, so the response union select looks like (null, string:concat[username,password])
 
 
