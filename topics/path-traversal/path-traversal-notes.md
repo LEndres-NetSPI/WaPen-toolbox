@@ -15,6 +15,6 @@ Step 1... try /etc/passwd!
 
 ``../`` becomes ``%2e%2e%2f``
 
-**Double URL Encoding**
+## Double URL Encoding
 
 ``%2e%2e%2f`` becomes ``%252e%252e%252f``
