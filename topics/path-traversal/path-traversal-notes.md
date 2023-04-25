@@ -13,7 +13,7 @@ Step 1... try /etc/passwd!
 >becomes
 >../
 
-**URL Encoding**
+##URL Encoding
 
 ../ becomes %2e%2e%2f
 
