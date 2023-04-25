@@ -14,9 +14,9 @@ Step 1... try /etc/passwd!
 >../
 
 **URL Encoding**
-../ becomes
-%2e%2e%2f
+
+../ becomes %2e%2e%2f
 
 **Double URL Encoding**
-%2e%2e%2f becomes
-%252e%252e%252f
+
+%2e%2e%2f becomes %252e%252e%252f
