@@ -1,7 +1,9 @@
 # Samsclass.info Notes
 
 ## URL Encoding
-
+- URLs may contain only printable ASCII characters
+  - 0x20 to 0x7e, inclusive
+- To transfer other characters, or problematic ASCII characters over HTTP, they must be URL-encoded
 ```
 %3d =
 %25 %
