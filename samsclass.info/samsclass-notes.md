@@ -22,3 +22,13 @@ A further encoding to be aware of is the + character, which represents a URL-enc
 %u2215 /
 %u8352 é
 ```
+
+## UTF-8 Encoding
+- Variable length
+- Uses % character before each byte
+- Unicode and UTF-8 are often used to bypass filters in attacks
+
+```
+%c2%a9 ©
+%e2%89@a0 ≠
+```
