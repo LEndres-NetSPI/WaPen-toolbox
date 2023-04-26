@@ -25,5 +25,7 @@ Step 2: try basic traversal ``../../etc/passwd``
 
 ``%2e%2e%2f`` becomes ``%252e%252e%252f``
 
+## You can use unicode encoding as well
+
 ## Key Notes
 Period `.` doesn't seem to be URL-encoded by default in the browser's URL bar. Period translated to `%2e`.
