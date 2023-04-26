@@ -1,4 +1,12 @@
 # Samsclass.info Notes
+---
+
+# Mapping
+- Run Web Spider====
+- robots.txt
+- User-directed spidering (Burp passive spidering)
+
+
 
 ## URL Encoding
 - URLs may contain only printable ASCII characters
