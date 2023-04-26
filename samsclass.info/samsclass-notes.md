@@ -14,7 +14,7 @@ A further encoding to be aware of is the + character, which represents a URL-enc
 
 
 
-## Unicaode Encoding
+## Unicode Encoding
 - Supports all the world's writing systems
 - 16 bits per character, starting with %u
 
