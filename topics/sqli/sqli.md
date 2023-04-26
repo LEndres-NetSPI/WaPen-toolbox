@@ -35,6 +35,7 @@ This means that if you have a table that contains (int, string) and you want to 
 
 Will a UNION SELECT return any data? It seems like no, if your query works then the page will render normal, just with no data.
 
+PS LABS SEEMS TO HAVE ISSUES! I fired off the exact same query in the browser and am not getting a successful response, however when I use repeater, my UNION attack works just fine. Do everything inside burp.
 
 
 
