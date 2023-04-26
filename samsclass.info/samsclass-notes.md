@@ -2,7 +2,7 @@
 ---
 
 # Mapping
-- Run Web Spider====
+- Run Web Spider
 - robots.txt
 - User-directed spidering (Burp passive spidering)
 
