@@ -1,10 +1,9 @@
 # WaPen Methodology
 
 ## Launch a Scan
-### Crawl+Audit = **Will send attack traffic and crawl the site!** Automatically sends requets to the server.
-### Passive = Looks for security vulnerabilities inside of your requests/responses you've already sent/recieved. This is a passive action, no new requests are made to the server.
-
-### Content Discovery Tool - used for UNAUTHENTICATED DISCOVERY
+- Crawl+Audit = **Will send attack traffic and crawl the site!** Automatically sends requets to the server.
+- Passive = Looks for security vulnerabilities inside of your requests/responses you've already sent/recieved. This is a passive action, no new requests are made to the server.
+- Content Discovery Tool - used for UNAUTHENTICATED DISCOVERY
 Within Burp Suite, use the Content Discovery tool to automatically map the application.
 	- Open Burp to Target -> Site Map.
 	- Right click on the top level site.
