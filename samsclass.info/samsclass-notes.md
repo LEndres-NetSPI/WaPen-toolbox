@@ -5,8 +5,17 @@
 - Run Web Spider
 - robots.txt
 - User-directed spidering (Burp passive spidering)
+- Map client and server-side technologies
+- Banner grabbing, wappalyzer
+
+# HTTP Headers
+- Applications behind a load balancer or proxy may use `X-Forwarded-For` header to identify source
+- Can be manipulated by attacker to inject content
 
 
+ 
+# Remember
+- NetSPI has a checklist to review, this is your most important material to understand
 
 ## URL Encoding
 - URLs may contain only printable ASCII characters
