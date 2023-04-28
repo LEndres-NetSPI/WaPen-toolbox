@@ -32,6 +32,13 @@
 - Cleartext communications - session hijacking, credential theft
 - Off-site links - leakage of query string parameters in the Referer header
 - Interfaces to external systems - shortcuts handling sessions or access controls
+- Error messages - information leakage
+- Email interaction - email or command injection
+- Native code components or interaction - buffer overflows
+- Third-party components - known vulenrabilities
+- Identifiable web server - common configuration errors, known bugs
+
+
 
 ### Other Notes
 `http://eis/pub/media/117/view`
