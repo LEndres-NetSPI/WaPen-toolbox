@@ -27,6 +27,9 @@ etc.
 
 ```Pets' union select username, password from users--```
 
+## Concatenate Commands
+- Use the `||` operator to concatenate commands and strings.
+
 ## Random Notes
 
 Union selects will **only work** if the column data types match!
