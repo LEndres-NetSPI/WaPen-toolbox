@@ -1,5 +1,11 @@
 # WaPen Methodology
 
+### WaPen Steps
+1) Map your application with manual browsing + passive scanning enabled
+2) Collect your `GET` requests and perform an active scan on all of them (`POST` to be addressed later because of danger)
+
+
+
 ## Launch a Scan
 - Crawl+Audit = **Will send attack traffic and crawl the site!** Automatically sends requets to the server.
 - Passive = Looks for security vulnerabilities inside of your requests/responses you've already sent/recieved. This is a passive action, no new requests are made to the server.
