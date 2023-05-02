@@ -22,6 +22,10 @@ Within Burp Suite, use the Content Discovery tool to automatically map the appli
 
 ## Inspect Everything
 
+# Nessus Scan
+- Perform a nessus scan with the `NetSPI Standard` config
+
+
 ## How to Record a Micro (auth)
 How to record `micro` (auth) for crawl and audit:
 	- New Scan --> Application login
