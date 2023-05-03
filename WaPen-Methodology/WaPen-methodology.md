@@ -4,9 +4,9 @@
 1) Map your application with manual browsing + passive scanning enabled
 2) Scan all application pages that accept parameters with Burp (look for the `Params` checkmark in the **target** tab)
 	- Scan `GET` requests
-	- Scanning `POSTS` is dangerous. Best not to do ever? Address this later
+	- Scanning `POST`s is dangerous. Best not to do ever? Address this later
 	- Right click on hostname on sitemap --> `Actively scan this host` is **NOT** recommended
-3) Perform manual fuzzing against requests with parameters that seem interesting
+3) Perform manual fuzzing on against parameters in requests that seem interesting
 
 
 ## Launch a Scan
