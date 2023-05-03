@@ -6,7 +6,7 @@
 	- Scan `GET` requests
 	- Scanning `POST`s is dangerous. Best not to do ever? Address this later
 	- Right click on hostname on sitemap --> `Actively scan this host` is **NOT** recommended
-3) Once you run a scan, then you can dig in with manual testing
+3) Once you run an audit scan, then you can dig in with manual testing
 	- Perform manual fuzzing against parameters in requests that seem interesting
 
 
