@@ -20,7 +20,7 @@ Within Burp Suite, use the Content Discovery tool to automatically map the appli
 
 ## Fuzz everything
 - PayloadAllTheThings
-- Burp Pro has proppriatory lists
+- Burp Pro has proprietary lists
 
 ## Inspect Everything
 
