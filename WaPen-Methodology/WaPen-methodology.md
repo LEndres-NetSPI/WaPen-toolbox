@@ -6,7 +6,7 @@
 	- Scan `GET` requests
 	- Scanning `POST`s is dangerous. Best not to do ever? Address this later
 	- Right click on hostname on sitemap --> `Actively scan this host` is **NOT** recommended
-3) Perform manual fuzzing on against parameters in requests that seem interesting
+3) Perform manual fuzzing against parameters in requests that seem interesting
 
 
 ## Launch a Scan
