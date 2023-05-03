@@ -2,7 +2,9 @@
 
 ### WaPen Steps
 1) Map your application with manual browsing + passive scanning enabled
-2) Collect your `GET` requests and perform an active scan on all of them (`POST` to be addressed later because of danger)
+2) Scan all application pages that accept parameters with Burp (look for the `Params` checkmark)
+	- Definetely scan `GET` requests
+	- Scanning `POSTS` is dangerous. Best not to do ever? Address this later
 
 
 
